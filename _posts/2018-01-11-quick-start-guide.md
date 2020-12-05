@@ -2,7 +2,7 @@
 layout: post
 title:  "TeamClipper, Hive Mind based bookmarking solution for teams"
 author: vishwesh
-categories: [ onboarding, introduction ]
+categories: [ bookmarking, hive-mind ]
 image: assets/images/logo.png
 beforetoc: "TeamClipper, Hive Mind based bookmarking solution for teams"
 toc: true
