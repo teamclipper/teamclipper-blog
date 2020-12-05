@@ -3,13 +3,7 @@ layout: post
 title:  "TeamClipper, Hive Mind based bookmarking solution for teams"
 author: vishwesh
 categories: [ bookmarking, hive-mind ]
-image: assets/images/logo.png
-beforetoc: "TeamClipper, Hive Mind based bookmarking solution for teams"
-toc: true
 ---
-
-![problem]({{ site.baseurl }}/assets/images/vj-tweet.png)
-
 One of the key things missing in the “onboarding” process in most of the organizations is sharing of distributed knowledge. There are knowledge sharing sessions, meetings with different teams, a lot of documentation to read, internal as well as external, some companies use an LMS (learning management system) to organize learning during onboarding. But what happens to the collective intelligence built by individuals over the years in the form of bookmarks? What happens to enabling new members to search for and reach to the right information as and when needed? Knowledge is not limited to the documentation, there is a lot of information distributed and buried in these bookmarks. Many of us faced this issue during our onboarding, didn’t we? I tweeted about it as well 
 
 ![bookmarking]({{ site.baseurl }}/assets/images/individual-bookmark.png)
