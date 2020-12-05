@@ -3,16 +3,16 @@ layout: post
 title:  "TeamClipper, Hive Mind based bookmarking solution for teams"
 author: vishwesh
 categories: [ onboarding, introduction ]
-image: assets/images/logo.jpg
+image: assets/images/logo.png
 beforetoc: "TeamClipper, Hive Mind based bookmarking solution for teams"
 toc: true
 ---
 
-![walking]({{ site.baseurl }}/assets/images/vj-tweet.png)
+![problem]({{ site.baseurl }}/assets/images/vj-tweet.png)
 
 One of the key things missing in the “onboarding” process in most of the organizations is sharing of distributed knowledge. There are knowledge sharing sessions, meetings with different teams, a lot of documentation to read, internal as well as external, some companies use an LMS (learning management system) to organize learning during onboarding. But what happens to the collective intelligence built by individuals over the years in the form of bookmarks? What happens to enabling new members to search for and reach to the right information as and when needed? Knowledge is not limited to the documentation, there is a lot of information distributed and buried in these bookmarks. Many of us faced this issue during our onboarding, didn’t we? I tweeted about it as well 
 
-![walking]({{ site.baseurl }}/assets/images/individual-bookmark.png)
+![bookmarking]({{ site.baseurl }}/assets/images/individual-bookmark.png)
 
 There is a lot of collective intelligence in the teams which are in the form of these bookmarks, highly distributed, lying around in “uncategorized” browser bookmark folders or buried deep down in slack/teams channels/DMs. How do we bring all of this together and build a Hive-Mind based system for teams to leverage this knowledge? 
 
@@ -21,13 +21,13 @@ Let us talk more about Hive Mind - a definition -
 
 Note the words “collective intelligence”, most enterprises, teams are today missing out big time on this. As the world is getting used to and embracing remote the need for this collective intelligence has increased a lot. Bookmarking can help here a lot, there is a lot of knowledge hidden away in these browser bookmarks which need organized sharing. 
 
-![walking]({{ site.baseurl }}/assets/images/team-bookmark.png)
+![team]({{ site.baseurl }}/assets/images/team-bookmark.png)
 
 “As people keep discovering, building a bookmarking site is easy, but making a business of bookmarking is hard.”- maciej Pinboard
 
 Bookmarking is first step here which many many users find broken today, here are some samples from twitter - 
 
-![walking]({{ site.baseurl }}/assets/images/tweets.png)
+![tweets]({{ site.baseurl }}/assets/images/tweets.png)
 
 We hear you “Bookmarking is broken” 
 
