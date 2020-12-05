@@ -4,8 +4,6 @@ title:  "TeamClipper, Hive Mind based bookmarking solution for teams"
 author: vishwesh
 categories: [ bookmarking, hive-mind ]
 image: assets/images/logo.png
-beforetoc: "TeamClipper, Hive Mind based bookmarking solution for teams"
-toc: true
 ---
 
 ![problem]({{ site.baseurl }}/assets/images/vj-tweet.png)
@@ -52,7 +50,6 @@ Easy to collaborate with team members or outside  (we need a screenshot here)
 + Highlight specific sections of the bookmarked page (man we love this!)
 + Instantly share bookmark clippings
 
-Don’t stop there, keep building the Hive Mind  (we need a screenshot here)
-+ Daily/Weekly digest of the popular and engaging content
+Don’t stop there, keep building the Hive Mind with help of Daily/Weekly digest of the popular and engaging content.
 
 We would be coming up with more exciting features which would help you build a true Hive Mind in your teams. Keep an eye out and subscribe today to receive further updates.
