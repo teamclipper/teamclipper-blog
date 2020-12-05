@@ -1,27 +1,51 @@
----
-layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
-featured: true
-hidden: true
----
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+TeamClipper
+Hive Mind based bookmarking solution for teams
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+One of the key things missing in the “onboarding” process in most of the organizations is sharing of distributed knowledge. There are knowledge sharing sessions, meetings with different teams, a lot of documentation to read, internal as well as external, some companies use an LMS (learning management system) to organize learning during onboarding. But what happens to the collective intelligence built by individuals over the years in the form of bookmarks? What happens to enabling new members to search for and reach to the right information as and when needed? Knowledge is not limited to the documentation, there is a lot of information distributed and buried in these bookmarks. Many of us faced this issue during our onboarding, didn’t we? I tweeted about it as well 
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
 
-#### So how do we do spoilers?
+There is a lot of collective intelligence in the teams which are in the form of these bookmarks, highly distributed, lying around in “uncategorized” browser bookmark folders or buried deep down in slack/teams channels/DMs. How do we bring all of this together and build a Hive-Mind based system for teams to leverage this knowledge? 
 
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+Let us talk more about Hive Mind - a definition - 
+“a notional entity consisting of a large number of people who share their knowledge or opinions with one another, regarded as producing collective intelligence.”
+
+Note the words “collective intelligence”, most enterprises, teams are today missing out big time on this. As the world is getting used to and embracing remote the need for this collective intelligence has increased a lot. Bookmarking can help here a lot, there is a lot of knowledge hidden away in these browser bookmarks which need organized sharing. 
+
+
+
+“As people keep discovering, building a bookmarking site is easy, but making a business of bookmarking is hard.”- maciej Pinboard
+
+Bookmarking is first step here which many many users find broken today, here are some samples from twitter - 
+
+
+We hear you “Bookmarking is broken” 
+
+So here we are introducing “TeamClipper” , a bookmarking solution for teams. Create a collection of bookmarks for your team, and start building intelligence around it. With TeamClipper we are enabling teams not only to have a common secure place to store all their internal and external bookmarks but we are also making these bookmarks more meaningful. Simple features like adding a note/comment to a bookmark or highlighting a section of a bookmark goes a long way and prove to be a timesaver if not lifesaver :) We also don't want to limit this collaborative intelligence to user action, so we would send you a daily/weekly digest of the popular and engaging content based on your team's behaviour to boost collaborative learning and keep building the knowledge base.
+
+
+We are on a  mission to enable your team to start collaborating over these bookmarks to create a Hive Mind! 
+
+What is TeamClipper? (we need a screenshot here)
+It’s your exclusive org-wide collaborative place for securely storing Internal and External Bookmarks
+
+With TeamClipper it’s, 
+Easy to add/organize/search through bookmarks   (we need a screenshot here)
+Categorization of bookmarks
+Avoid Duplicate bookmarks
+Auto Sync with Chrome Browser (using our Chrome Plugin)
+Powerful Search
+
+Easy to collaborate with team members or outside  (we need a screenshot here)
+Add Notes to Bookmarks
+Add Comments on Bookmarks
+Highlight specific sections of the bookmarked page (man we love this!)
+Instantly share bookmark clippings
+
+Don’t stop there, keep building the Hive Mind  (we need a screenshot here)
+Daily/Weekly digest of the popular and engaging content
+
+We would be coming up with more exciting features which would help you build a true Hive Mind in your teams. Keep an eye out and subscribe today to receive further updates.
