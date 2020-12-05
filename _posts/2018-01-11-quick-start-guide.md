@@ -1,12 +1,18 @@
+---
+layout: post
+title:  "TeamClipper, Hive Mind based bookmarking solution for teams"
+author: vishwesh
+categories: [ onboarding, introduction ]
+image: assets/images/logo.jpg
+beforetoc: "TeamClipper, Hive Mind based bookmarking solution for teams"
+toc: true
+---
 
-TeamClipper
-Hive Mind based bookmarking solution for teams
-
-
+![walking]({{ site.baseurl }}/assets/images/vj-tweet.png)
 
 One of the key things missing in the “onboarding” process in most of the organizations is sharing of distributed knowledge. There are knowledge sharing sessions, meetings with different teams, a lot of documentation to read, internal as well as external, some companies use an LMS (learning management system) to organize learning during onboarding. But what happens to the collective intelligence built by individuals over the years in the form of bookmarks? What happens to enabling new members to search for and reach to the right information as and when needed? Knowledge is not limited to the documentation, there is a lot of information distributed and buried in these bookmarks. Many of us faced this issue during our onboarding, didn’t we? I tweeted about it as well 
 
-
+![walking]({{ site.baseurl }}/assets/images/individual-bookmark.png)
 
 There is a lot of collective intelligence in the teams which are in the form of these bookmarks, highly distributed, lying around in “uncategorized” browser bookmark folders or buried deep down in slack/teams channels/DMs. How do we bring all of this together and build a Hive-Mind based system for teams to leverage this knowledge? 
 
@@ -15,12 +21,13 @@ Let us talk more about Hive Mind - a definition -
 
 Note the words “collective intelligence”, most enterprises, teams are today missing out big time on this. As the world is getting used to and embracing remote the need for this collective intelligence has increased a lot. Bookmarking can help here a lot, there is a lot of knowledge hidden away in these browser bookmarks which need organized sharing. 
 
-
+![walking]({{ site.baseurl }}/assets/images/team-bookmark.png)
 
 “As people keep discovering, building a bookmarking site is easy, but making a business of bookmarking is hard.”- maciej Pinboard
 
 Bookmarking is first step here which many many users find broken today, here are some samples from twitter - 
 
+![walking]({{ site.baseurl }}/assets/images/tweets.png)
 
 We hear you “Bookmarking is broken” 
 
@@ -33,19 +40,19 @@ What is TeamClipper? (we need a screenshot here)
 It’s your exclusive org-wide collaborative place for securely storing Internal and External Bookmarks
 
 With TeamClipper it’s, 
-Easy to add/organize/search through bookmarks   (we need a screenshot here)
-Categorization of bookmarks
-Avoid Duplicate bookmarks
-Auto Sync with Chrome Browser (using our Chrome Plugin)
-Powerful Search
++ Easy to add/organize/search through bookmarks   (we need a screenshot here)
++ Categorization of bookmarks
++ Avoid Duplicate bookmarks
++ Auto Sync with Chrome Browser (using our Chrome Plugin)
++ Powerful Search
 
 Easy to collaborate with team members or outside  (we need a screenshot here)
-Add Notes to Bookmarks
-Add Comments on Bookmarks
-Highlight specific sections of the bookmarked page (man we love this!)
-Instantly share bookmark clippings
++ Add Notes to Bookmarks
++ Add Comments on Bookmarks
++ Highlight specific sections of the bookmarked page (man we love this!)
++ Instantly share bookmark clippings
 
 Don’t stop there, keep building the Hive Mind  (we need a screenshot here)
-Daily/Weekly digest of the popular and engaging content
++ Daily/Weekly digest of the popular and engaging content
 
 We would be coming up with more exciting features which would help you build a true Hive Mind in your teams. Keep an eye out and subscribe today to receive further updates.
