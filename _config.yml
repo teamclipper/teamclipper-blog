@@ -5,31 +5,35 @@ description: "Teamclipper: Private and collborative bookmarking for your company
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: 'G-1CL4KPDH3J'
+disqus: 'www-teamclipper-com'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  vishwesh:
+    name: Vishwesh
+    display_name: Vishwesh
+    gravatar: cdd833fd7ce305642140987622646aba
+    email: vishwesh@teamclipper.com
+    web: https://www.teamclipper.com
+    twitter: https://twitter.com/vishweshji
+  akshay:
+    name: Akshay
+    display_name: Akshay
+    gravatar: b4bb0d20bf3d384617e93eeec7c83cfb
+    email: akshay@teamclipper.com
+    web: https://www.teamclipper.com
+    twitter: https://twitter.com/akshay_deo
+  harshad:
+    name: Harshad
+    display_name: Harshad
+    gravatar: fea8da0d503a35dbfb2a6dcb587b9409
+    email: harshad@teamclipper.com
+    web: https://www.teamclipper.com
+    twitter: https://twitter.com/harshad_geek
 
 # Plugins
 plugins:
@@ -62,9 +66,9 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+#adsense: "disabled"
+#adsense-data-ad-client: "ca-pub-3412143450191416"
+#adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
