@@ -47,4 +47,4 @@ Easy to collaborate with team members or outside
 Don’t stop there, keep building the Hive Mind  
 + Daily/Weekly digest of the popular and engaging content
 
-We would be coming up with more exciting features which would help you build a true Hive Mind in your teams. Keep an eye out and "Bookmark" today to receive further updates.
+We would be coming up with more exciting features which would help you build a true Hive Mind in your teams. Keep an eye out and "Bookmark" TeamClipper today to receive further updates.
