@@ -8,9 +8,9 @@ One of the key things missing in the “onboarding” process in most of the org
 
 ![bookmarking]({{ site.baseurl }}/assets/images/individual-bookmark.png)
 
-There is a lot of collective intelligence in the teams which are in the form of these bookmarks, highly distributed, lying around in “uncategorized” browser bookmark folders or buried deep down in slack/teams channels/DMs. How do we bring all of this together and tap into this Hive-Mind to leverage this knowledge base? 
+There is a lot of collective intelligence in the teams which are in the form of these bookmarks, highly distributed, lying around in “uncategorized” browser bookmark folders or buried deep down in slack/teams channels/DMs. How do we bring all of this together and tap into this **Hive Mind** to leverage this knowledge base? 
 
-Let us talk more about Hive Mind - a definition - 
+Let us talk more about **Hive Mind** - a definition - 
 >a notional entity consisting of a large number of people who share their knowledge or opinions with one another, regarded as producing collective intelligence.
 
 Note the words “collective intelligence”, most enterprises, teams are today missing out big time on this. As the world is getting used to and embracing remote the need for this collective intelligence has increased a lot. Bookmarking can help here a lot, there is a lot of knowledge hidden away in these browser bookmarks which need organized sharing. 
@@ -21,9 +21,9 @@ Bookmarking is first step here which many many users find broken today, here are
 
 ![tweets]({{ site.baseurl }}/assets/images/tweets.png)
 
-We hear you “Bookmarking is broken” 
+We hear you **“Bookmarking is broken”** 
 
-So here we are introducing “TeamClipper”, a bookmarking solution for teams. Create a collection of bookmarks for your team, and start building intelligence around them. With TeamClipper we are enabling teams not only to have a common secure place to store all their internal and external bookmarks but we are also making these bookmarks more meaningful. Simple features like adding a note/comment to a bookmark or highlighting a section of a bookmark goes a long way. For us it proved to be a timesaver if not lifesaver while we were building various ideas :) As we build more features, we do not want to limit this collaborative intelligence to user action, so we would send you a daily/weekly digest of the popular and engaging content based on your team's behaviour to boost collaborative learning and keep building the knowledge base.
+So here we are introducing **“TeamClipper”**, a bookmarking solution for teams. Create a collection of bookmarks for your team, and start building intelligence around them. With TeamClipper we are enabling teams not only to have a common secure place to store all their internal and external bookmarks but we are also making these bookmarks more meaningful. Simple features like adding a note/comment to a bookmark or highlighting a section of a bookmark goes a long way. For us it proved to be a timesaver if not lifesaver while we were building various ideas :) As we build more features, we do not want to limit this collaborative intelligence to user action, so we would send you a daily/weekly digest of the popular and engaging content based on your team's behaviour to boost collaborative learning and keep building the knowledge base.
 
 And with this we want to create a Hive Mind in your team!
 
