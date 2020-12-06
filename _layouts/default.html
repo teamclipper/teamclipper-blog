@@ -64,8 +64,9 @@
         <!-- Begin Logo -->
         <a class="navbar-brand" href="{{ site.baseurl }}/">
             <span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-                <span style="margin-bottom:-4px">{{ site.name }}</span></span>
+                </span>
         </a>
+        <span style="margin-bottom:-4px;font-size: 22px;">{{ site.name }}</span>
         <!-- End Logo -->
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish"
@@ -162,11 +163,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 text-center text-lg-left">
                     Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
-                </div>
-                <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                    <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll
-                        Theme</a> by WowThemes.net
-                </div>
+                </div>                
             </div>
         </div>
     </footer>
